@@ -1,0 +1,27 @@
+:root{
+  /* Colors */
+  --bg-0: #0A0F1A;        /* near-black */
+  --bg-1: #0E1B2E;        /* deep blue */
+  --stroke: #1E2A3D;      /* blue-gray border */
+  --text: #F5FAFF;        /* primary text */
+  --muted: #A7B7CC;       /* secondary text */
+  --cyan: #38E1FF;        /* pure cyan */
+  --ice: #E8F7FF;         /* blue-white */
+  --amber: #F5A524;       /* warn/offline */
+
+  /* Radii / spacing */
+  --r-card: 20px;
+  --r-pill: 999px;
+  --space-1: 8px;
+  --space-2: 12px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --max-w: 1280px;
+
+  /* Effects */
+  --glass: rgba(255,255,255,0.06);
+  --glass-strong: rgba(255,255,255,0.10);
+  --inner-stroke: inset 0 0 0 1px rgba(255,255,255,0.08);
+  --shadow-soft: 0 10px 30px rgba(0,0,0,0.45);
+}
